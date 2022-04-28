@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-package-990011",
+  "name": "test-npm-package-hryshko",
   "version": "1.0.0",
   "description": "A nice greater",
   "main": "lib/index.js",
@@ -40,6 +40,5 @@
   },
   "files": [
     "lib/**/*"
-  ],
-
+  ]
 }
